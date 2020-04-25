@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IlmoitusTaulu", "IlmoitusTaulu\IlmoitusTaulu.csproj", "{D08EBFC9-97DF-4AC3-919A-860360195CFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D08EBFC9-97DF-4AC3-919A-860360195CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08EBFC9-97DF-4AC3-919A-860360195CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08EBFC9-97DF-4AC3-919A-860360195CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08EBFC9-97DF-4AC3-919A-860360195CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FA9D294-75A3-4806-9E24-76A03D4A434F}
+	EndGlobalSection
+EndGlobal
